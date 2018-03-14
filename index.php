@@ -6,6 +6,7 @@ if(isset($_GET['delete_id']))
 {
 	//delete logic here
 	print "Vilash was here..";
+	sfafsda
 }
 // delete condition
 
